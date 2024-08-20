@@ -1,6 +1,0 @@
-[gd_scene load_steps=2 format=3 uid="uid://xlfhon483hel"]
-
-[ext_resource type="Texture2D" uid="uid://0tg1ubofl1i6" path="res://assets/bluemoto.png" id="1_hki6y"]
-
-[node name="character" type="Sprite2D"]
-texture = ExtResource("1_hki6y")
